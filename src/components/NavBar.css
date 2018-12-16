@@ -1,0 +1,23 @@
+font-family: 'Abel', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Patua One', cursive;
+
+.nav-ul{
+  position: absolute;
+  right: 0;
+}
+
+.menu-item{
+  list-style: none;
+  float: left;
+  text-decoration: none;
+  font-family: 'Abel', sans-serif;
+  color: #fff;
+  font-size: 24px;
+  font-weight: bold;
+  padding: 0 20px 0 20px;
+}
+
+.menu-item:hover{
+    color: #42f4b3;
+  }
