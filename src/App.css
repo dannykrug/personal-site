@@ -30,3 +30,8 @@
     transform: rotate(360deg);
   }
 }
+
+.picture{
+  max-height: 600px;
+  max-width: 600px;
+}
